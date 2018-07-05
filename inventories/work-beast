@@ -1,0 +1,4 @@
+[work_best]
+work-beast ansible_host=192.168.2.121 ansible_port=22 ansible_user=admin
+
+
